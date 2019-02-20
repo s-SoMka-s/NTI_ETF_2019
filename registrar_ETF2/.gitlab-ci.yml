@@ -1,0 +1,5 @@
+image: akolotov/ftchecker-registrar
+
+test:
+  script:
+  - checker-registrar --testdata '{"privateKey":"5fce9f8f84f332d2a0818e8b329364187fbfa03e7ee4b3c6aba953fa8fff2cea"}'

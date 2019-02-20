@@ -1,0 +1,5 @@
+image: akolotov/ftchecker-qadwallet
+
+test:
+  script:
+  - checker-qadwallet --testdata '{"privateKey":"c9a072fbe35c001b2fb29e10cd56726eea9fe29e055d1ece3fb1a2893619bb9f"}'
