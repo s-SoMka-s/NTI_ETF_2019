@@ -1,5 +1,5 @@
 # NTI_UTF_2019
-This repository contains code solutions of educational training fees NTI_2019 /n
+This repository contains code solutions of educational training fees NTI_2019  
 -gitlab-ci.yml serves for auto-testing
 
 qadwallet_ETF1:
