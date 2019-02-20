@@ -6,5 +6,5 @@ qadwallet_ETF1:
 -qadwallet.py contains python code solution of ETF_1
 
 registrar_ETF2:
--registrar.py contains python code solution of ETF_2
+-registrar.py contains python code solution of ETF_2				 																																							
 -My.Contract.sol contains solidity contract code solution of this ETF
